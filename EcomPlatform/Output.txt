@@ -1,0 +1,26 @@
+Product created; code P1, price 200, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product P1 info; price 200, stock 1000
+Order created; product P1, quantity 100
+Time is 1:00
+Product P1 info; price 196, stock 1000
+Time is 2:00
+Product P1 info; price 192, stock 1000
+Time is 3:00
+Product P1 info; price 188, stock 1000
+Time is 4:00
+Product P1 info; price 184, stock 1000
+Time is 5:00
+Order created; product P1, quantity 250
+Product P1 info; price 180, stock 1000
+Time is 6:00
+Product P1 info; price 176, stock 1000
+Time is 7:00
+Product P1 info; price 172, stock 1000
+Time is 8:00
+Product P1 info; price 168, stock 1000
+Time is 9:00
+Product P1 info; price 164, stock 1000
+Time is 10:00
+Product P1 info; price 200, stock 1000
+Campaign C1 info; Status Ended, Target Sales 100, Total Sales 350, Turnover 0.424242424242424, Average Item Price 185.714285714286
